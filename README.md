@@ -4,14 +4,17 @@ Perguntas:
 
 1- Quais as quantias lucradas por cada empresa, no mês de Agosto, referente a área de bilhetagem?
 
-=SOMA(D4:D7)
-=SOMA(D4:D8)
+Bilhetagem Saens Peña
+* =SOMA(D4:D7)
+* =SOMA(D4:D8)
 
-=SOMA(D13:D16)
-=SOMA(D13:D17)
+Bilhetagem Joseense Transportes
+* =SOMA(D13:D16)
+* =SOMA(D13:D17)
 
-=SOMA(D23:D26)
-=SOMA(D23:D27)
+Bilhetagem Expresso Maringá
+* =SOMA(D23:D26)
+* =SOMA(D23:D27)
 
 2- No mês de Agosto, como estão as irregularidades em referência as multas de trânsito de cada empresa?
 
