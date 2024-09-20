@@ -4,19 +4,19 @@ Perguntas:
 
 1- Quais as quantias lucradas por cada empresa, no mês de Agosto, referente a área de bilhetagem?
 
-Bilhetagem Saens Peña
+**Bilhetagem Saens Peña**
 * =SOMA(D4:D7)
 * =SOMA(D4:D8)
 
 <img src="Bilhetagem Saens Peña.jpeg" width="70%" height="70%">
 
-Bilhetagem Joseense Transportes
+**Bilhetagem Joseense Transportes**
 * =SOMA(D13:D16)
 * =SOMA(D13:D17)
 
 <img src="Bilhetagem Joseense Transportes.jpeg" width="70%" height="70%">
 
-Bilhetagem Expresso Maringá
+**Bilhetagem Expresso Maringá**
 * =SOMA(D23:D26)
 * =SOMA(D23:D27)
 
