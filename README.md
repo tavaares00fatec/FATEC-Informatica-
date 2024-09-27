@@ -28,27 +28,23 @@ Perguntas:
 2- No mês de Agosto, como estão as irregularidades em referência as multas de trânsito de cada empresa?
 
 * =SOMA(C3:C6)
-  
-<img src="Irregularidades de Trânsito (Excel).jpeg" width="80%" height="70%">
+
 <img src="Irregularidades de Trânsito.jpeg" width="70%" height="70%">
 
 3- Durante as fiscalizações em campo no mês de Agosto, como estão os índices, em porcentagem, dos colaboradores em atuação?
 
 * =SOMA(C3:C6)
 
-<img src="Irregularidades na Atuação de Colaboradores (Excel).jpeg" width="80%" height="70%">
 <img src="Irregularidades na Atuação de Colaboradores.jpeg" width="70%" height="70%">
 
 4- Quais as porcentagens de falhas medidas pelo Sistema de Bilhetagem Eletrônica (SBE) durante as rotas dos carros no mês de Agosto?
 
 * =SOMA(C3:C6)
 
-<img src="Falhas do Veículo (Excel).jpeg" width="70%" height="70%">
 <img src="Falhas do Veículo.jpeg" width="70%" height="70%">
 
 5- Com relação aos horários de intervalo, como foram medidos os erros por cada empresa durante o mês de Agosto?
 
 * =SOMA(C3:C6)
 
-<img src="Intervalo de Viagens (Excel).jpeg" width="70%" height="70%">
 <img src="Intervalo de Viagens.jpeg" width="70%" height="70%">
