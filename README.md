@@ -28,7 +28,7 @@ Perguntas:
 2- No mês de Agosto, como estão as irregularidades em referência as multas de trânsito de cada empresa?
 
 * =SOMA(C3:C6)
-
+* 
 <img src="Irregularidades de Trânsito (Excel).jpeg" width="70%" height="70%">
 <img src="Irregularidades de Trânsito.jpeg" width="70%" height="70%">
 
